@@ -1,4 +1,4 @@
-a# Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu
+# Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu
 ## RIYASUDEEN R-212221220044
 ## AIM
 
